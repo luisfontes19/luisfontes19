@@ -1,16 +1,18 @@
-### Hi there 👋
+![me](/me.png)
 
-<!--
-**luisfontes19/luisfontes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About my work
 
-Here are some ideas to get you started:
+I work as a Application Security Engineer and as part of if I sometimes develop a few tools to help me out on my daily tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### XXExploiter
+
+![XXExploiter](xxexploiter.png)
+
+I wrote [XXExploiter](https://github.com/luisfontes19/xxexploiter) which is a tool to help exploit XML External Entities related vulnerabilities, by generating payloads and automating all the processed related
+
+### DamnVulnerableCryptoApp
+
+![DamnVulnerableCryptoApp](dvca.png)
+
+Another nice project I'm working on is [DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp) which as the name says, is a vulnerable crypto app, with common issues developer do when working with crypto. 
+This is a tool to teach the most common crypto attacks, how they happen, how you can exploit them, and how you can secure your code from them.

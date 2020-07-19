@@ -2,7 +2,9 @@
 
 ## About my work
 
-I work as a Application Security Engineer and as part of if I sometimes develop a few tools to help me out on my daily tasks.
+I work as a Application Security Engineer and as part of it I sometimes develop a few tools to help me out on my daily tasks.
+
+I also maintain a personal blog with some of the research I do about vulnerabilities not that well documented/explored
 
 ### XXExploiter
 

@@ -23,8 +23,15 @@
 <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/keepassxc.svg" align="left" width="32" title="Keepass">
 <img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" align="" width="32" title="Veracrypt">
 
-### Some of My Projects
 
+<p align="center">
+  <a href="http://thesecurityvault.com/">
+    <img src="https://thesecurityvault.com/wp-content/uploads/2020/03/front_image_alt1.png" width="400"/>
+  </a>
+</p>
+TheSecurityVault is my blog, where I do some writing about web vulnerabilities, usually know that well known by most people
+
+### Some of My Projects
 
 <a href="https://github.com/luisfontes19/xxexploiter">
   <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/xxexploiter.png" align="left" width="200" title="XXExploiter" / >

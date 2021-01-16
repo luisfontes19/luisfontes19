@@ -1,20 +1,63 @@
-![me](https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/me.png)
+<a href="https://github.com/luisfontes19">
+<img align="center" alt="luisfontes19's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luisfontes19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-## About my work
+<a href="https://github.com/luisfontes19">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luisfontes19&layout=compact&theme=radical" />
+</a>
 
-I work as a Application Security Engineer and as part of it I sometimes develop a few tools to help me out on my daily tasks.
+### Some of the technologies I Use
 
-I also maintain a personal blog with some of the research I do about vulnerabilities not that well documented/explored
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" align="left" width="32" title="Java">
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" align="left" width="32" title="Rails">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" align="left" width="32" title="Node">
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" align="left" width="32" title="NPM">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" align="left" width="32" title="Typescript">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" align="left" width="32" title="React">
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" align="left" width="32" title="AngularJS">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" align="left" width="32" title="HTML5">
+<img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" align="left" width="32" title="ESLint">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" align="left" width="32" title="AWS">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="32" align="left" title="Docker">
+<img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" align="left" width="32" title="Etherium">
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" width="32" title="PHP">
+<img src="https://www.vectorlogo.zone/logos/yubico/yubico-icon.svg" align="left" width="32" title="Yubikeys">
+<img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" align="left" width="32" title="Brave">
+<img src="https://github.com/simple-icons/simple-icons/blob/master/icons/keepassxc.svg" align="left" width="32" title="Keepass">
+<img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" align="left" width="32" title="Veracrypt">
 
-### XXExploiter
+  
+### My Projects
 
-![XXExploiter](https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/xxexploiter.png)
-
-I wrote [XXExploiter](https://github.com/luisfontes19/xxexploiter) which is a tool to help exploit XML External Entities related vulnerabilities, by generating payloads and automating all the processed related
-
-### DamnVulnerableCryptoApp
-
-![DamnVulnerableCryptoApp](https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/dvca.png)
-
-Another nice project I'm working on is [DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp) which as the name says, is a vulnerable crypto app, with common issues developer do when working with crypto. 
-This is a tool to teach the most common crypto attacks, how they happen, how you can exploit them, and how you can secure your code from them.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/luisfontes19/xxexploiter">
+        <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/xxexploiter.png" align="left" width="450" title="XXExploiter" / >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luisfontes19/CSRFER">
+        <img src="https://thesecurityvault.com/wp-content/uploads/2020/11/csrfer.png" align="left" width="450" title="CSRFER" / >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luisfontes19/vscode-swissknife">
+        <img src="https://github.com/luisfontes19/vscode-swissknife/raw/master/data/swissknife_banner.png" align="left" width="450" title="VsCode Swissknife" / >
+      </a>
+    </td>    
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/DamnVulnerableCryptoApp">
+        <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/dvca.png" align="left" width="450" title="DamnVulnerableCryptoApp" / >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/luisfontes19/SharpCorsProxy">
+        <img src="https://raw.githubusercontent.com/luisfontes19/SharpCorsProxy/master/SharpCorsProxy.png" align="left" width="450" title="SharpCorsProxy" / >
+      </a>
+    </td>
+    <td></td>    
+  </tr>
+</table>

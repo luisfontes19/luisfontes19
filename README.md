@@ -5,8 +5,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luisfontes19&layout=compact&theme=radical" />
 </a>
 
-### Some of the technologies I Use
-
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" align="left" width="32" title="Java">
 <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" align="left" width="32" title="Rails">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" align="left" width="32" title="Node">
@@ -23,41 +21,33 @@
 <img src="https://www.vectorlogo.zone/logos/yubico/yubico-icon.svg" align="left" width="32" title="Yubikeys">
 <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" align="left" width="32" title="Brave">
 <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/keepassxc.svg" align="left" width="32" title="Keepass">
-<img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" align="left" width="32" title="Veracrypt">
+<img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" align="" width="32" title="Veracrypt">
 
-  
-### My Projects
+### Some of My Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/luisfontes19/xxexploiter">
-        <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/xxexploiter.png" align="left" width="450" title="XXExploiter" / >
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luisfontes19/CSRFER">
-        <img src="https://thesecurityvault.com/wp-content/uploads/2020/11/csrfer.png" align="left" width="450" title="CSRFER" / >
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luisfontes19/vscode-swissknife">
-        <img src="https://github.com/luisfontes19/vscode-swissknife/raw/master/data/swissknife_banner.png" align="left" width="450" title="VsCode Swissknife" / >
-      </a>
-    </td>    
-  </tr>
-  
-  <tr>
-    <td>
-      <a href="https://github.com/DamnVulnerableCryptoApp">
-        <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/dvca.png" align="left" width="450" title="DamnVulnerableCryptoApp" / >
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luisfontes19/SharpCorsProxy">
-        <img src="https://raw.githubusercontent.com/luisfontes19/SharpCorsProxy/master/SharpCorsProxy.png" align="left" width="450" title="SharpCorsProxy" / >
-      </a>
-    </td>
-    <td></td>    
-  </tr>
-</table>
+
+<a href="https://github.com/luisfontes19/xxexploiter">
+  <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/xxexploiter.png" align="left" width="200" title="XXExploiter" / >
+</a>
+XXExploiter - Tool to help exploit XXE vulnerabilities. It generates the XML payloads, and automatically starts a server to serve the needed DTD's or to do data exfiltration.
+<br><br><br><br>
+
+<a href="https://github.com/luisfontes19/CSRFER">
+  <img src="https://thesecurityvault.com/wp-content/uploads/2020/11/csrfer.png" align="left" width="200" title="CSRFER" / >
+</a>
+CSRFER - Tool to generate csrf payloads based on vulnerable requests. It parses supplied requests to generate either a form or a fetch request. The payload can then be embedded in an html template.
+<br><br><br><br>
+
+<a href="https://github.com/luisfontes19/vscode-swissknife">
+  <img src="https://github.com/luisfontes19/vscode-swissknife/raw/master/data/swissknife_banner.png" align="left" width="200" title="VsCode Swissknife" / >
+</a>
+VSCode Swissknife - Scriptable VSCode extension to generate or manipulate data. Stop pasting sensitive data in webpages.
+<br><br><br><br>
+
+<a href="https://github.com/DamnVulnerableCryptoApp/">
+  <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/dvca.png" align="left" width="200" title="DamnVulnerableCryptoApp" / >
+</a>
+DamnVulnerableCryptoApp - An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it
+<br><br><br>
+
+

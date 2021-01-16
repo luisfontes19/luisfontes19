@@ -21,7 +21,7 @@
 <img src="https://www.vectorlogo.zone/logos/yubico/yubico-icon.svg" align="left" width="32" title="Yubikeys">
 <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" align="left" width="32" title="Brave">
 <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/keepassxc.svg" align="left" width="32" title="Keepass">
-<img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" align="" width="32" title="Veracrypt">
+<img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" align="" width="32" title="Veracrypt" align="left">
 
 
 <p align="center">

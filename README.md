@@ -29,7 +29,7 @@
     <img src="https://thesecurityvault.com/wp-content/uploads/2020/03/front_image_alt1.png" width="400"/>
   </a>
 </p>
-TheSecurityVault is my blog, where I do some writing about web vulnerabilities, usually know that well known by most people
+TheSecurityVault is my blog, where I do some writing about web vulnerabilities, usually not that well known by most people
 
 ### Some of My Projects
 

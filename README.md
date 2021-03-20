@@ -24,7 +24,7 @@
 <img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" width="32" title="Veracrypt" align="left">
 <img src="https://portswigger.net/content/images/svg/icons/professional.svg" align="left" title="Burp" width="32">
 
-<br><br>
+<br><br><br>
 
 <p align="center">
   <a href="http://thesecurityvault.com/">

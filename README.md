@@ -22,9 +22,10 @@
 <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" align="left" width="32" title="Brave">
 <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/keepassxc.svg" align="left" width="32" title="Keepass">
 <img src="https://github.com/detain/svg-logos/blob/master/svg/veracrypt-1.svg" width="32" title="Veracrypt" align="left">
-<img src="https://portswigger.net/content/images/svg/icons/professional.svg" align="left" title="Burp" width="32>
+<img src="https://portswigger.net/content/images/svg/icons/professional.svg" align="left" title="Burp" width="32">
 
-<br><br>
+<br>
+
 <p align="center">
   <a href="http://thesecurityvault.com/">
     <img src="https://thesecurityvault.com/wp-content/uploads/2020/03/front_image_alt1.png" width="400"/>

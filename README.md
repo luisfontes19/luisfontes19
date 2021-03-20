@@ -55,6 +55,16 @@ VSCode Swissknife - Scriptable VSCode extension to generate or manipulate data. 
   <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/dvca.png" align="left" width="200" title="DamnVulnerableCryptoApp" / >
 </a>
 DamnVulnerableCryptoApp - An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it
+<br><br><br><br><br>
+
+
+<a href="https://raw.githubusercontent.com/luisfontes19/thecombiner"> 
+  <img src="https://raw.githubusercontent.com/luisfontes19/thecombiner/master/banner.jpg" align="left" width="200" title="TheCombiner" / >
+</a>
+The Combiner - Combines supplied words and generates a wordlist with all possible combinatios/permutations. Can also hash wordlist entries to look for an hash match
 <br><br><br>
 
+<a href="https://github.com/luisfontes19/hash-identifier-js">hash-identifier-js</a>
+Started as a port to javascript of the python project hash-identifier. Identifies the algorithm used to generate the supplied hash
 
+<a href="https://github.com/luisfontes19/slither-static-analysis-action">slither-static-analysis-action - Github action to run Solidity's static analyser "Slither"</a>

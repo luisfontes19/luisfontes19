@@ -67,4 +67,4 @@ The Combiner - Combines supplied words and generates a wordlist with all possibl
 <a href="https://github.com/luisfontes19/hash-identifier-js">hash-identifier-js</a>
 Started as a port to javascript of the python project hash-identifier. Identifies the algorithm used to generate the supplied hash
 
-<a href="https://github.com/luisfontes19/slither-static-analysis-action">slither-static-analysis-action - Github action to run Solidity's static analyser "Slither"</a>
+<a href="https://github.com/luisfontes19/slither-static-analysis-action">slither-static-analysis-action</a> - Github action to run Solidity's static analyser "Slither"

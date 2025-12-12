@@ -14,7 +14,7 @@ A comprehensive checklist and guide for organizations looking to implement a rob
 XXExploiter
 
 Tool to help exploit XXE vulnerabilities. It generates the XML payloads, and automatically starts a server to serve the needed DTD's or to do data exfiltration.
-<br><br>
+<br><br><br>
 
 <a href="https://thesecurityvault.com">
   <img src="https://thesecurityvault.com/banner.png" align="left" width="200" title="TheSecurityVault" / >

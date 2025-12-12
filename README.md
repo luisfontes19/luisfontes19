@@ -6,7 +6,7 @@
 Orgsec Guide
 
 A comprehensive checklist and guide for organizations looking to implement a robust cybersecurity program
-<br><br><br><br>
+<br><br><br>
 
 <a href="https://github.com/luisfontes19/xxexploiter">
   <img src="https://raw.githubusercontent.com/luisfontes19/luisfontes19/master/xxexploiter.png" align="left" width="200" title="XXExploiter" / >
@@ -14,7 +14,7 @@ A comprehensive checklist and guide for organizations looking to implement a rob
 XXExploiter
 
 Tool to help exploit XXE vulnerabilities. It generates the XML payloads, and automatically starts a server to serve the needed DTD's or to do data exfiltration.
-<br><br><br><br>
+<br><br>
 
 <a href="https://thesecurityvault.com">
   <img src="https://thesecurityvault.com/banner.png" align="left" width="200" title="TheSecurityVault" / >
@@ -22,7 +22,7 @@ Tool to help exploit XXE vulnerabilities. It generates the XML payloads, and aut
 TheSecurityVault
 
 My blog where I ocassionally post something security related. 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 
@@ -32,7 +32,7 @@ My blog where I ocassionally post something security related.
 CSRFER
 
 Tool to generate csrf payloads based on vulnerable requests. It parses supplied requests to generate either a form or a fetch request. The payload can then be embedded in an html template.
-<br><br><br><br>
+<br><br>
 
 <a href="https://github.com/luisfontes19/vscode-swissknife">
   <img src="https://github.com/luisfontes19/vscode-swissknife/raw/master/data/swissknife_banner.png" align="left" width="200" title="VsCode Swissknife" / >
@@ -48,7 +48,7 @@ Scriptable VSCode extension to generate or manipulate data. Stop pasting sensiti
 DamnVulnerableCryptoApp
 
 An app with really insecure crypto. To be used to see/test/exploit weak cryptographic implementations as well as to learn a little bit more about crypto, without the need to dive deep into the math behind it
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 <a href="https://raw.githubusercontent.com/luisfontes19/thecombiner"> 

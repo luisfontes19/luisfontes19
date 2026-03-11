@@ -7,6 +7,8 @@ I've been breaking things professionally for almost a decade as a **Product/Appl
 ## 🚀 Some of My Projects
 
 🗼 **[WatchTower](https://github.com/luisfontes19/watchtower)** - VSCode extension that scans your workspace for malicious configurations, invisible Unicode threats, and dangerous IDE attack vectors — fully local, fully open source.
+
+🔑 **[How To Test Secrets](https://github.com/luisfontes19/how-to-test-secrets)** - A visual, interactive cheat-sheet for testing whether leaked API keys and secrets are still valid — pick a service and get a ready-to-run command.
  
  🎭 **MirageVM** -  Javascript virtual machine for code obfuscation. It can be used to protect sensitive client side logic with custom bytecode. Supports all Javascript features through a custom low level language (Private project)
 

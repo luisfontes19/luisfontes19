@@ -6,17 +6,21 @@ I've been breaking things professionally for almost a decade as a **Product/Appl
 
 ## 🚀 Some of My Projects
 
-🗼 **[WatchTower](https://github.com/luisfontes19/watchtower)** - VSCode extension that scans your workspace for malicious configurations, invisible Unicode threats, and dangerous IDE attack vectors — fully local, fully open source.
-
-🔑 **[How To Test Secrets](https://github.com/luisfontes19/how-to-test-secrets)** - A visual, interactive cheat-sheet for testing whether leaked API keys and secrets are still valid — pick a service and get a ready-to-run command.
- 
- 🎭 **MirageVM** -  Javascript virtual machine for code obfuscation. It can be used to protect sensitive client side logic with custom bytecode. Supports all Javascript features through a custom low level language (Private project)
-
 🛡️ **[Orgsec Guide](https://github.com/luisfontes19/orgsec-guide)** - A comprehensive checklist and guide for organizations looking to implement a robust cybersecurity program
 
 💥 **[XXExploiter](https://github.com/luisfontes19/xxexploiter)** - Tool to help exploit XXE vulnerabilities. Generates XML payloads and automatically starts a server to serve DTD's or do data exfiltration
 
 🔪 **[VSCode Swissknife](https://github.com/luisfontes19/vscode-swissknife)** - Scriptable VSCode extension to generate or manipulate data. Stop pasting sensitive data in webpages
+
+🗼 **[WatchTower](https://github.com/luisfontes19/watchtower)** - VSCode extension that scans your workspace for malicious configurations, invisible Unicode threats, and dangerous IDE attack vectors — fully local, fully open source.
+
+🔎 **[Warden](https://luisfontes19.github.io/warden/)** - Enforce file-based policies on managed machines by automatically detecting and correcting config files that drift from approved values.
+
+🔑 **[How To Test Secrets](https://github.com/luisfontes19/how-to-test-secrets)** - A visual, interactive cheat-sheet for testing whether leaked API keys and secrets are still valid — pick a service and get a ready-to-run command.
+ 
+ 🎭 **MirageVM** -  Javascript virtual machine for code obfuscation. It can be used to protect sensitive client side logic with custom bytecode. Supports all Javascript features through a custom low level language (Private project)
+
+🔫 **[coup-sheet](https://luisfontes19.github.io/coup-sheet/)** - If you like the game as much as me, you'll find this sheet super helpful
 
 🔓 **[DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/)** - An app with intentionally insecure crypto implementations. Perfect for testing/exploiting weak cryptography and learning crypto without diving deep into the math
 
